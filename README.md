@@ -12,7 +12,7 @@ Figure 1: Framework of IF-NAS.
 </p>
 
 <p align="center">
-  <img src="imgs/results.png" alt="visualization" width="60%">
+  <img src="imgs/results.png" alt="visualization" width="40%">
 </p>
 <p align="center">
 Figure 2: Some results compared to random sampling and DAS.
